@@ -17,3 +17,4 @@ Goto the chrome browser and type localhost:4200/ to run the project locally.
 
 **Author**
 Nancy Singh
+
